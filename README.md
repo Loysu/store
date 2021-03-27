@@ -9,5 +9,4 @@ Installation:
   4. Run server - python manage.py runserver
   5. To create an admin - python manage.py createsuperuser
  
- 
- This is my first big project, which took about 3 months to create. 
+
