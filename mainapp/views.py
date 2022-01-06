@@ -1,8 +1,3 @@
-import operator
-
-from functools import reduce
-from itertools import chain
-
 from django.db import transaction
 from django.shortcuts import render
 from django.db.models import Q
