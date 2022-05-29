@@ -1,7 +1,6 @@
 from django.contrib import admin
 
-from .models import *
-
+from .models import CategoryFeature, FeatureValidator, ProductFeature
 
 admin.site.register(ProductFeature)
 admin.site.register(CategoryFeature)
